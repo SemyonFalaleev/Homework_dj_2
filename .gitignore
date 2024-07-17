@@ -1,0 +1,8 @@
+pagination/paginator/
+pagination/res/
+pagination/db.sqlite3
+pagination/README.md
+pagination/assets/
+recipes/homework_recipes
+recipes/README.md
+recipes/db.sqlite3
